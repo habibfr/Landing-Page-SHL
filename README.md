@@ -1,4 +1,4 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Starter Template](https://www.tailwindtoolbox.com/setup)
+<!-- # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Starter Template](https://www.tailwindtoolbox.com/setup)
 
 It's pretty straight forward to setup [Tailwind CSS](https://www.tailwindcss.com/) and give it a test spin using the CDN version. However, as mentioned on the Tailwind site, you need to setup Tailwind using npm in order to start customising Tailwind.
 
@@ -58,4 +58,4 @@ Have a bug, suggestion or question? [Open a new issue](https://github.com/tailwi
 * https://twitter.com/amritnagi
 * https://github.com/tailwindtoolbox
 
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
+Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger) -->
